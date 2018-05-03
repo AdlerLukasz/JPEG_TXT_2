@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ReadFilesJPEG.iml" filepath="$PROJECT_DIR$/ReadFilesJPEG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadFilesJPEG_TXT.iml" filepath="$PROJECT_DIR$/ReadFilesJPEG_TXT.iml" />
     </modules>
   </component>
 </project>
